@@ -1,11 +1,11 @@
 # code your #position_taken? method here!
 def position_taken?(board, index)
-    if board[index] == "2"
+    if board[index] == " "
         puts "right"
     end
 end
 
-board = (" ", " ")
+board = [" ", " "]
 
 index = 0
 
