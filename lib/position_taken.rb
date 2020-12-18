@@ -8,4 +8,4 @@ end
 board = (" ")
 index = 0
 
-position_taken?(board)
+position_taken?(board, index)
