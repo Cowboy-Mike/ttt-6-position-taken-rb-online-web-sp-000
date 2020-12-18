@@ -5,7 +5,7 @@ def position_taken?(board, index)
     end
 end
 
-board = (" ", "2", " ")
+board = (" " "2" " ")
 index = 1
 
 position_taken(board, 2)
